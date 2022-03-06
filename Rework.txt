@@ -1,0 +1,17 @@
+1. Đổi chỗ ít nhất
+2. Dãy con tăng dần
+3. Tập con bằng nhau
+4. Dãy con có tổng bằng s
+5. Dãy xâu fibonacci
+6. Đếm cặp
+7. Gấp đôi dãy số
+8. Sắp xếp quân hậu
+9. Cái túi
+10. Mã grey
+11. Tháp hà nội
+
+Input
+3
+((a+b))
+(a + (b)/c)
+(a + b*(c-d))
