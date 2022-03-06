@@ -10,8 +10,3 @@
 10. Mã grey
 11. Tháp hà nội
 
-Input
-3
-((a+b))
-(a + (b)/c)
-(a + b*(c-d))
