@@ -9,4 +9,24 @@
 9. Cái túi
 10. Mã grey
 11. Tháp hà nội
+12. Nối dây 1
+13. Lựa chọn tối ưu (sắp xếp công việc 1)
+14. Sắp xếp đơn giản
+15. Đếm dãy
+16. Số nguyên tố
 
+Nguyen Van A
+B20DCCN001
+8.2
+Le Thi B
+B20DCCN002
+9.6
+Tran Duc C
+B20DCCN003
+7.8
+Bui Thi D
+B20DCCN004
+3.6
+
+B20DCCN000
+0.0
