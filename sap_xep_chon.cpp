@@ -8,7 +8,7 @@ void in(int a[], int n)
         cout << a[i] << ' ';
     cout << endl;
 }
-int main()
+int main()  
 {
     int n;
     cin >> n;
